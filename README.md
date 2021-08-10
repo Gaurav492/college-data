@@ -1,4 +1,3 @@
-# college-data
-https://gaurav492.github.io/college-data/
+# college-data 
 
 https://gaurav492.github.io/college-data/
